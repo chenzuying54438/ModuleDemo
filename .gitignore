@@ -1,0 +1,12 @@
+## OSX Files
+*.DS_Store
+._*
+
+## CocoaPods
+CZPods/
+Pods/
+
+## Xcode
+*.xcworkspace/
+*.xcodeproj/xcuserdata/*.xcuserdatad
+*.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
